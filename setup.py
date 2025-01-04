@@ -11,7 +11,7 @@ setup(
     description="A package to control Midea CCM15 data converter modules",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/ocalvo/py-ccm15",
+    url="https://github.com/MosheL/py-ccm15",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
